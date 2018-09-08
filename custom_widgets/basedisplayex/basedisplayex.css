@@ -1,0 +1,42 @@
+.widget-basedisplayex-{{id}} .unit {
+	font-size: 225%;
+	font-weight: 400;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.widget-basedisplayex-{{id}} .value {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.widget-basedisplayex-{{id}} .valueunit {
+	width: 100%;
+	vertical-align: middle;
+}
+
+.widget-basedisplayex-{{id}} .title {
+	position: absolute;
+	top: 5px;
+	width: 100%;
+}
+
+.widget-basedisplayex-{{id}} .title2 {
+	position: absolute;
+	top: 23px;
+	width: 100%;
+}
+
+.widget-basedisplayex-{{id}} .state_text {
+	position: absolute;
+	bottom: -3px;
+	width: 100%;
+}
+
+.widget-basedisplayex-{{id}} .icon {
+	position: absolute;
+	top: 43px;
+	width: 100%;
+}
